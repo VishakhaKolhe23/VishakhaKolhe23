@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishakha Kolhe</h1>
-<h3 align="center">Data & AI Enthusiast | Turning Data into Insights 📊</h3>
+<h3 align="center"> AI Enthusiast 📊</h3>
 
-- 👯 I’m looking to collaborate on **Data science & Generative AI Projects**
+- 👯 I’m looking to collaborate on **Generative AI Projects**
 
-- 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Power BI Dashboards**
+- 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Power BI Dashboards, Gen AI, Agentic AI**
 
 - 📫 How to reach me **vishakhakolhe321@gmail.com**
 
